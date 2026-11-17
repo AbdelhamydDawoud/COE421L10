@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+    <name>COE421_Lab10_Exercise1</name>
+    <comment>Exercise 1 Observer Pattern using the supplied PDF code</comment>
+    <projects></projects>
+    <buildSpec>
+        <buildCommand>
+            <name>org.eclipse.jdt.core.javabuilder</name>
+            <arguments></arguments>
+        </buildCommand>
+    </buildSpec>
+    <natures><nature>org.eclipse.jdt.core.javanature</nature></natures>
+</projectDescription>
